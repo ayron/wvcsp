@@ -6,3 +6,4 @@ This project is not done, and certainly will not compile yet.
 Libraries Requires:
 
 OpenCV
+Boost.asio
